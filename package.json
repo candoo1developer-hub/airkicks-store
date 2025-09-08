@@ -1,0 +1,16 @@
+{
+  "name": "airkicks-store",
+  "version": "1.0.0",
+  "description": "Enterprise e-commerce platform for AirKicks hover shoes",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "author": "AirKicks Corporation",
+  "license": "PROPRIETARY",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
